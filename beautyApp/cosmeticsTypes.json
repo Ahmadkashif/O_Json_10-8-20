@@ -1,0 +1,266 @@
+{
+    "Makeup & Fragrance": [
+        {
+            "id": "01",
+            "name": "BB Cream"
+        },
+        {
+            "id": "02",
+            "name": "Blush & Bronzer"
+        },
+        {
+            "id": "03",
+            "name": "Body Mist"
+        },
+        {
+            "id": "04",
+            "name": "Brow Color and Styling"
+        }
+        ,
+        {
+            "id": "05",
+            "name": "CC Cream"
+        }
+        ,
+        {
+            "id": "06",
+            "name": "Concealer and Corrector"
+        }
+        ,
+        {
+            "id": "07",
+            "name": "Deodorant"
+        }
+        ,
+        {
+            "id": "08",
+            "name": "Eau de Parfum"
+        }
+        ,
+        {
+            "id": "09",
+            "name": "Eau de Toilette"
+        }
+        ,
+        {
+            "id": "10",
+            "name": "Eye Makeup Remover"
+        }
+
+        ,
+        {
+            "id": "11",
+            "name": "Eye Liner"
+        }
+        ,
+        {
+            "id": "12",
+            "name": "Eye Shadow"
+        },
+        {
+            "id": "13",
+            "name": "Eye Shadow Primer"
+        }
+        ,
+        {
+            "id": "14",
+            "name": "Face Powder"
+        }
+        ,
+        {
+            "id": "15",
+            "name": "Face Primer"
+        }
+        ,
+        {
+            "id": "16",
+            "name": "Foundation"
+        }
+        ,
+        {
+            "id": "17",
+            "name": "Hair Mist"
+        }
+        ,
+        {
+            "id": "18",
+            "name": "Highlighter"
+        },
+        {
+            "id": "19",
+            "name": "Lip Gloss"
+        },
+        {
+            "id": "20",
+            "name": "Lip Liner"
+        },
+        {
+            "id": "21",
+            "name": "Lip Plumpler"
+        },
+        {
+            "id": "22",
+            "name": "Makeup Remover"
+        },
+        {
+            "id": "23",
+            "name": "Maskara"
+        },
+        {
+            "id": "24",
+            "name": "Nail and Cuticle Treatment"
+        },
+        {
+            "id": "25",
+            "name": "Lip Gloss"
+        },
+        {
+            "id": "26",
+            "name": "Nail Posilsh"
+        },
+        {
+            "id": "27",
+            "name": "Palette"
+        },
+        {
+            "id": "28",
+            "name": "Polsih Remover"
+        },
+        {
+            "id": "29",
+            "name": "Solid Perfume"
+        },
+        {
+            "id": "30",
+            "name": "Tinted Moisturiser"
+        }
+
+    ],
+    "Skin & Hair Care": [
+        {
+            "id": "31",
+            "name": "Anti-Aging"
+        },
+        {
+            "id": "32",
+            "name": "Bath and Shower"
+        },
+        {
+            "id": "33",
+            "name": "Antiperspirant"
+        },
+        {
+            "id": "34",
+            "name": "Body Friming"
+        },
+        {
+            "id": "35",
+            "name": "Body Treatment"
+        },
+        {
+            "id": "36",
+            "name": "Cleanser"
+        },
+        {
+            "id": "37",
+            "name": "Conditioner"
+        },
+        {
+            "id": "38",
+            "name": "Day Cream"
+        },
+        {
+            "id": "39",
+            "name": "Eye Treatment"
+        },
+        {
+            "id": "40",
+            "name": "Face Serum and Treatment"
+        },
+        {
+            "id": "41",
+            "name": "Hair Removal"
+        },
+        {
+            "id": "42",
+            "name": "Hair Styling"
+        },
+        {
+            "id": "43",
+            "name": "Hair Treatment "
+        },
+        {
+            "id": "44",
+            "name": "Hand Cream"
+        },
+        {
+            "id": "45",
+            "name": "Lip Care"
+        },
+        {
+            "id": "46",
+            "name": "Lotion"
+        },
+        {
+            "id": "47",
+            "name": "Neck and Decolette care"
+        },
+        {
+            "id": "48",
+            "name": "Night Cream"
+        },
+        {
+            "id": "49",
+            "name": "Scrub and Exfoliant"
+        },
+        {
+            "id": "50",
+            "name": "Shampoo"
+        },
+        {
+            "id": "51",
+            "name": "Tonique"
+        }
+    ],
+    "Men": [
+        {
+            "id": "52",
+            "name": "Aftershave"
+        },
+        {
+            "id": "53",
+            "name": "Deodorant/Antiperspirant"
+        },
+        {
+            "id": "54",
+            "name": "Fragrance"
+        },
+        {
+            "id": "55",
+            "name": "Hair Care"
+        },
+        {
+            "id": "56",
+            "name": "Shaving"
+        }
+        ,
+        {
+            "id": "57",
+            "name": "Skin Care"
+        }
+    ],
+    "Mother & Baby": [
+        {
+            "id": "58",
+            "name": "Baby Skin Care"
+        },
+        {
+            "id": "59",
+            "name": "Postpartum Skin Care"
+        },
+        {
+            "id": "60",
+            "name": "Pragnancy Skin Care"
+        }
+    ]
+}
