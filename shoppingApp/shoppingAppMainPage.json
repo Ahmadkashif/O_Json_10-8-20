@@ -1,3 +1,39 @@
 {
+    "hot deals":[
+        {
+            "prod_name":"SKAGren Men's watch",
+            "prod_discount":"30",
+            "prod_image":"url",
+            "prod_liked":"false",
+            "prod_price":"$91",
+            "prod_desc":"..."
+        },
+        {
+            "prod_name":"HP 15t 15-dy",
+            "prod_discount":"28",
+            "prod_image":"url",
+            "prod_liked":"false",
+            "prod_price":"$1003",
+            "prod_desc":"..."
+        }
+    ],
+    "Featured Products":[
+        {
+            "prod_name":"Oakley Men's Sunglasses",
+            "prod_discount":"0",
+            "prod_image":"url",
+            "prod_liked":"false",
+            "prod_price":"$183",
+            "prod_desc":"..."
+        },
+        {
+            "prod_name":"Calvin Klien Authentic watch",
+            "prod_discount":"0",
+            "prod_image":"url",
+            "prod_liked":"false",
+            "prod_price":"$109",
+            "prod_desc":"..."
+        }
+    ]
     
 }
