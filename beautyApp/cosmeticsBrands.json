@@ -1468,78 +1468,35 @@
 
 
 
-    
+
     ,
     {
         "id": "17",
-        "name": "The Art of Shaving"
+        "name": "Youth To The People"
     }
     ,
     {
         "id": "18",
-        "name": "Artis"
+        "name": "YUNI"
     },
     {
         "id": "19",
-        "name": "Artist Couture"
+        "name": "Yves Saint Laurent"
     },
+
+
+
     {
         "id": "20",
-        "name": "Atelier Cologne"
+        "name": "The 7 Virtues"
     },
-
-
-
-
     {
         "id": "21",
-        "name": "bareMinerals"
-    },
-    {
-        "id": "22",
-        "name": "Beachwaver"
-    },
-    {
-        "id": "23",
-        "name": "The Beauty Chef"
-    },
-    {
-        "id": "24",
-        "name": "Nail and Cuticle Treatment"
-    },
-    {
-        "id": "25",
-        "name": "BeautyBio"
-    },
-    {
-        "id": "26",
-        "name": "beautyblender"
-    },
-    {
-        "id": "27",
-        "name": "Beautycounter"
-    },
-    {
-        "id": "28",
-        "name": "BECCA Cosmetics"
-    },
-    {
-        "id": "29",
-        "name": "belif"
-    },
-    {
-        "id": "30",
-        "name": "Benefit Cosmetics"
-    },
-    {
-        "id": "31",
-        "name": "BERDOUES"
-    },
-    {
-        "id": "32",
-        "name": "Better Not Younger"
-    
+        "name": "8Greens"
+    }
 
+
+  
     ]
 }
 
