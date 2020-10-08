@@ -1,0 +1,66 @@
+{
+    "Makeup & Fragrance": [
+        {
+            "id": "01",
+            "name": "BB Cream"
+        },
+        {
+            "id": "02",
+            "name": "Blush & Bronzer"
+        },
+        {
+            "id": "03",
+            "name": "Body Mist"
+        }
+    ],
+    "Skin & Hair Care": [
+        {
+            "id": "01",
+            "name": "Acne & Problem Skin"
+        },
+        {
+            "id": "02",
+            "name": "Anti Aging"
+        },
+        {
+            "id": "03",
+            "name": "Antiperspirant"
+        }
+    ],
+    "Men": [
+        {
+            "id": "01",
+            "name": "Aftershave"
+        },
+        {
+            "id": "02",
+            "name": "Deodorant/Antiperspirant"
+        },
+        {
+            "id": "03",
+            "name": "Fragrance"
+        },
+        {
+            "id": "04",
+            "name": "Hair Care"
+        },
+        {
+            "id": "05",
+            "name": "Shaving"
+        }
+    ],
+    "Mother & Baby": [
+        {
+            "id": "01",
+            "name": "Baby Skin Care"
+        },
+        {
+            "id": "02",
+            "name": "Postpartum Skin Care"
+        },
+        {
+            "id": "03",
+            "name": "Pragnancy Skin Care"
+        }
+    ]
+}
